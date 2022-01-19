@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Yazeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazeedalrubyli)](https://github.com/anuraghazra/github-readme-stats)
+[![Yazeed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalrubyli)](https://github.com/anuraghazra/github-readme-stats)
