@@ -9,5 +9,3 @@
 <!-- - ⚡ Fun fact: ...
  -->
 [![Yazeed's GitHub stats](https://github-stats-extended.vercel.app/api?username=yazeedalrubyli&theme=radical)]
-
-[![Yazeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazeedalrubyli)](https://github.com/anuraghazra/github-readme-stats)
