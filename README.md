@@ -8,4 +8,4 @@
 - 📫 How to reach me: [Yazeed Alrubyli](mailto:yazeed.alrubyli@gmail.com?subject=[GitHub])
 <!-- - ⚡ Fun fact: ...
  -->
-[![Yazeed's GitHub stats](https://github-stats-extended.vercel.app/api?username=yazeedalrubyli&theme=radical)]
+![Yazeed's GitHub stats](https://github-stats-extended.vercel.app/api?username=yazeedalrubyli&theme=radical)
